@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Christoph stockstrom
 
 # Username (this should match the folder name)
 authors:
@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professor für Marketing und Innovation
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: NORDAKADEMIE - Hochschule der Wirtschaft
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
