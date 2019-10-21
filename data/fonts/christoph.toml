@@ -2,16 +2,16 @@
 name = "christoph"
 
 # Optional Google font URL
-# google_fonts = "Arapey:400,400i|Karla:400,700|Roboto+Mono|Open Sans:300"
-google_fonts = "Cabin|Roboto:400,700|Roboto+Mono|Roboto+Condensed:400,700"
+google_fonts = "Arapey:400,400i|Karla:400,700|Roboto+Mono|Open Sans:300"
+# google_fonts = "Cabin|Roboto:400,700|Roboto+Mono|Roboto+Condensed:400,700"
 
 # Font families
-# heading_font = "Arapey"
-heading_font = "Roboto Condensed"
-# body_font = "Karla"
-body_font = "Cabin"
-# nav_font = "Open Sans" # Karla
-nav_font = "Cabin"
+heading_font = "Arapey"
+# heading_font = "Roboto Condensed"
+body_font = "Karla"
+# body_font = "Cabin"
+nav_font = "Open Sans" # Karla
+# nav_font = "Cabin"
 mono_font = "Roboto Mono"
 
 # Font size
