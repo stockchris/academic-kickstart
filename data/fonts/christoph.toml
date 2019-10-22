@@ -17,3 +17,6 @@ mono_font = "Roboto Mono"
 # Font size
 font_size = "35" #18
 font_size_small = "16" #16
+
+# Font color
+color ="#8E8D8A"
