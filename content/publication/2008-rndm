@@ -1,0 +1,29 @@
++++
+abstract = "The domain of New Product Development (NPD) is subject to considerable uncertainties. Aside from market‐related sources of uncertainty, the degree of innovativeness of the underlying product concept is a significant source of uncertainty, as unclear goals and specifications like, e.g. product specifications may lead to substantial delays in the project. However, companies are required to manage the innovation process as efficiently as possible. The resulting conflicting demands often leave companies struggling to achieve both efficiency as well as flexibility due to their often opposing implications for organizing and managing NPD projects. In this context, planning plays a central role; however, its usefulness for NPD project success is perceived quite differently. While there are reports about a positive influence of initial planning on various success measures, others have questioned the effectiveness of elaborated initial planning and contend that the ability to rapidly react to changes later in the process and to improvise may lead to success in NPD. This study aims at achieving a better understanding of planning in NPD by investigating a sample of 475 Research & Development projects in Japanese electrical and mechanical engineering companies. Regression analysis is used to shed more light on the interplay of planning intensity, changes, and the degree of technological newness of the NPD project and their influence on project success. Our results indicate planning to be of value for different types of innovation projects. Furthermore, the influences of the variables in question vary with the success measures that are taken into account, indicating that a more detailed and contingent understanding of planning in NPD needs to be developed."
+
+authors = ["Christoph Stockstrom", "Cornelius Herstatt"]
+date = "2008-11-01"
+image_preview = ""
+math = true
+publication_types = ["2"]
+publication = "R&D Management"
+publication_short = ""
+selected = false
+title = "Planning and uncertainty in new product development"
+url_code = ""
+url_dataset = ""
+url_pdf = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+
+[[url_custom]]
+name = "View Journal Article"
+url = "https://onlinelibrary.wiley.com/doi/10.1111/j.1467-9310.2008.00532.x"
+
+# Optional featured image (relative to `static/img/` folder).
+[header]
+image = ""
+caption = ""
+
++++
