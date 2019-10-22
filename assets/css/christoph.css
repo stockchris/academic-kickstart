@@ -153,7 +153,7 @@ div.alert-warning > div:first-child::before {
 }
 
 .alert-note {
-  color: #333;
+  color: #8E8D8A; /*#333;*/
   background-color: #fff;
   border-top: 2px solid #e13d3d;
   border-radius: 0px; /*undo rounded corners*/
