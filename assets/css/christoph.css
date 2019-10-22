@@ -1,14 +1,14 @@
 /* links */
 
 a {
-  color: #E13D3D;
+  color: #E85A4F;
   cursor: pointer;
 }
 
 a:active, 
 a:focus, 
 a:hover {
-  color: #d03b39;
+  color: #E85A4F; /*#d03b39;*/
 }
 
 /* nav */
@@ -34,7 +34,7 @@ a:hover {
 }
 
 .navbar-nav {
-  border-bottom: 2px solid #E13D3D;
+  border-bottom: 2px solid #E85A4F;
 }
 
 .navbar-brand {
@@ -45,18 +45,18 @@ a:hover {
 
 .navbar-light .navbar-brand:focus, 
 .navbar-light .navbar-brand:hover {
-  color: #d03b39;
+  color: #E85A4F; /*#d03b39;*/
 }
 
 /* text */
 
 h1, h2, h3, h4, h5, h6 {
-  color: #333;
+  color: #8E8D8A; /*#333;*/
   font-weight: 400;
 }
 
 body {
-  color: #333;
+  color: #8E8D8A; /*#333;*/
   font-size: 0.9rem;
 }
 
@@ -67,7 +67,7 @@ h1 {
 /* home page */
 
 .portrait-title h2 {
-  color: #333;
+  color: #8E8D8A; /*#333;*/
 }
 
 #about .col-12.col-lg-8 {
@@ -126,7 +126,7 @@ pre code {
 }
 
 code { 
-  color: #d03b39;
+  color: #E85A4F; /*/#d03b39;*/
   background: #fff;
   font-size: 0.9em;
 }
@@ -169,7 +169,7 @@ div.alert > div {
 
 
 div.alert.alert-warning {
-  color: #d03b39;
+  color: #E85A4F; /*#d03b39;*/
   background-color: #fdf4f4;
   border-top: 2px solid #e13d3d;
   border-radius: 0px; /*undo rounded corners*/
